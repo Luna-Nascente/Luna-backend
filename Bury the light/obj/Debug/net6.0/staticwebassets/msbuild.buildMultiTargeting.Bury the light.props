@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Bury the light.props" />
+</Project>

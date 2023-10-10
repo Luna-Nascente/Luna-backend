@@ -1,0 +1,213 @@
+C:\Users\Dell\Desktop\Bury the light\Bury the light\Bury the light\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Dell\Desktop\Bury the light\Bury the light\Bury the light\bin\Debug\net6.0\appsettings.json
+C:\Users\Dell\Desktop\Bury the light\Bury the light\Bury the light\bin\Debug\net6.0\Bury the light.exe
+C:\Users\Dell\Desktop\Bury the light\Bury the light\Bury the light\bin\Debug\net6.0\Bury the light.deps.json
+C:\Users\Dell\Desktop\Bury the light\Bury the light\Bury the light\bin\Debug\net6.0\Bury the light.runtimeconfig.json
+C:\Users\Dell\Desktop\Bury the light\Bury the light\Bury the light\bin\Debug\net6.0\Bury the light.dll
+C:\Users\Dell\Desktop\Bury the light\Bury the light\Bury the light\bin\Debug\net6.0\Bury the light.pdb
+C:\Users\Dell\Desktop\Bury the light\Bury the light\Bury the light\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\Dell\Desktop\Bury the light\Bury the light\Bury the light\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\Dell\Desktop\Bury the light\Bury the light\Bury the light\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Dell\Desktop\Bury the light\Bury the light\Bury the light\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Dell\Desktop\Bury the light\Bury the light\Bury the light\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Dell\Desktop\Bury the light\Bury the light\Bury the light\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Dell\Desktop\Bury the light\Bury the light\Bury the light\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Dell\Desktop\Bury the light\Bury the light\Bury the light\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Dell\Desktop\Bury the light\Bury the light\Bury the light\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Dell\Desktop\Bury the light\Bury the light\Bury the light\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Dell\Desktop\Bury the light\Bury the light\Bury the light\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Dell\Desktop\Bury the light\Bury the light\Bury the light\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Dell\Desktop\Bury the light\Bury the light\Bury the light\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Dell\Desktop\Bury the light\Bury the light\Bury the light\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Dell\Desktop\Bury the light\Bury the light\Bury the light\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Dell\Desktop\Bury the light\Bury the light\Bury the light\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Dell\Desktop\Bury the light\Bury the light\Bury the light\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Dell\Desktop\Bury the light\Bury the light\Bury the light\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Dell\Desktop\Bury the light\Bury the light\Bury the light\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Dell\Desktop\Bury the light\Bury the light\Bury the light\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Dell\Desktop\Bury the light\Bury the light\Bury the light\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Dell\Desktop\Bury the light\Bury the light\Bury the light\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Dell\Desktop\Bury the light\Bury the light\Bury the light\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dell\Desktop\Bury the light\Bury the light\Bury the light\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Dell\Desktop\Bury the light\Bury the light\Bury the light\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Dell\Desktop\Bury the light\Bury the light\Bury the light\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Dell\Desktop\Bury the light\Bury the light\Bury the light\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Dell\Desktop\Bury the light\Bury the light\Bury the light\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dell\Desktop\Bury the light\Bury the light\Bury the light\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dell\Desktop\Bury the light\Bury the light\Bury the light\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dell\Desktop\Bury the light\Bury the light\Bury the light\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dell\Desktop\Bury the light\Bury the light\Bury the light\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Dell\Desktop\Bury the light\Bury the light\Bury the light\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Dell\Desktop\Bury the light\Bury the light\Bury the light\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Dell\Desktop\Bury the light\Bury the light\Bury the light\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Dell\Desktop\Bury the light\Bury the light\Bury the light\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dell\Desktop\Bury the light\Bury the light\Bury the light\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Dell\Desktop\Bury the light\Bury the light\Bury the light\obj\Debug\net6.0\Bury the light.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\Bury the light\Bury the light\Bury the light\obj\Debug\net6.0\Bury the light.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\Bury the light\Bury the light\Bury the light\obj\Debug\net6.0\Bury the light.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\Bury the light\Bury the light\Bury the light\obj\Debug\net6.0\Bury the light.AssemblyInfo.cs
+C:\Users\Dell\Desktop\Bury the light\Bury the light\Bury the light\obj\Debug\net6.0\Bury the light.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Bury the light\Bury the light\Bury the light\obj\Debug\net6.0\Bury the light.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Dell\Desktop\Bury the light\Bury the light\Bury the light\obj\Debug\net6.0\Bury the light.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dell\Desktop\Bury the light\Bury the light\Bury the light\obj\Debug\net6.0\staticwebassets\msbuild.Bury the light.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Dell\Desktop\Bury the light\Bury the light\Bury the light\obj\Debug\net6.0\staticwebassets\msbuild.build.Bury the light.props
+C:\Users\Dell\Desktop\Bury the light\Bury the light\Bury the light\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Bury the light.props
+C:\Users\Dell\Desktop\Bury the light\Bury the light\Bury the light\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Bury the light.props
+C:\Users\Dell\Desktop\Bury the light\Bury the light\Bury the light\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Dell\Desktop\Bury the light\Bury the light\Bury the light\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Dell\Desktop\Bury the light\Bury the light\Bury the light\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Dell\Desktop\Bury the light\Bury the light\Bury the light\obj\Debug\net6.0\scopedcss\bundle\Bury the light.styles.css
+C:\Users\Dell\Desktop\Bury the light\Bury the light\Bury the light\obj\Debug\net6.0\Bury the light.csproj.CopyComplete
+C:\Users\Dell\Desktop\Bury the light\Bury the light\Bury the light\obj\Debug\net6.0\Bury the light.dll
+C:\Users\Dell\Desktop\Bury the light\Bury the light\Bury the light\obj\Debug\net6.0\refint\Bury the light.dll
+C:\Users\Dell\Desktop\Bury the light\Bury the light\Bury the light\obj\Debug\net6.0\Bury the light.pdb
+C:\Users\Dell\Desktop\Bury the light\Bury the light\Bury the light\obj\Debug\net6.0\Bury the light.genruntimeconfig.cache
+C:\Users\Dell\Desktop\Bury the light\Bury the light\Bury the light\obj\Debug\net6.0\ref\Bury the light.dll
+C:\Users\Dell\Desktop\Bury the light\Bury the light\Bury the light\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Dell\Desktop\Bury the light\Bury the light\Bury the light\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Dell\Desktop\Bury the light\Bury the light\Bury the light\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Dell\Desktop\Bury the light\Bury the light\Bury the light\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Dell\Desktop\Bury the light\Bury the light\Bury the light\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Dell\Desktop\Bury the light\Bury the light\Bury the light\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mr200\OneDrive\Рабочий стол\Bury the light\Bury the light\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\mr200\OneDrive\Рабочий стол\Bury the light\Bury the light\bin\Debug\net6.0\appsettings.json
+C:\Users\mr200\OneDrive\Рабочий стол\Bury the light\Bury the light\bin\Debug\net6.0\Bury the light.exe
+C:\Users\mr200\OneDrive\Рабочий стол\Bury the light\Bury the light\bin\Debug\net6.0\Bury the light.deps.json
+C:\Users\mr200\OneDrive\Рабочий стол\Bury the light\Bury the light\bin\Debug\net6.0\Bury the light.runtimeconfig.json
+C:\Users\mr200\OneDrive\Рабочий стол\Bury the light\Bury the light\bin\Debug\net6.0\Bury the light.dll
+C:\Users\mr200\OneDrive\Рабочий стол\Bury the light\Bury the light\bin\Debug\net6.0\Bury the light.pdb
+C:\Users\mr200\OneDrive\Рабочий стол\Bury the light\Bury the light\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\mr200\OneDrive\Рабочий стол\Bury the light\Bury the light\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\mr200\OneDrive\Рабочий стол\Bury the light\Bury the light\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\mr200\OneDrive\Рабочий стол\Bury the light\Bury the light\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mr200\OneDrive\Рабочий стол\Bury the light\Bury the light\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mr200\OneDrive\Рабочий стол\Bury the light\Bury the light\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mr200\OneDrive\Рабочий стол\Bury the light\Bury the light\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\mr200\OneDrive\Рабочий стол\Bury the light\Bury the light\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\mr200\OneDrive\Рабочий стол\Bury the light\Bury the light\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mr200\OneDrive\Рабочий стол\Bury the light\Bury the light\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\mr200\OneDrive\Рабочий стол\Bury the light\Bury the light\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mr200\OneDrive\Рабочий стол\Bury the light\Bury the light\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mr200\OneDrive\Рабочий стол\Bury the light\Bury the light\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mr200\OneDrive\Рабочий стол\Bury the light\Bury the light\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\mr200\OneDrive\Рабочий стол\Bury the light\Bury the light\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mr200\OneDrive\Рабочий стол\Bury the light\Bury the light\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mr200\OneDrive\Рабочий стол\Bury the light\Bury the light\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mr200\OneDrive\Рабочий стол\Bury the light\Bury the light\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mr200\OneDrive\Рабочий стол\Bury the light\Bury the light\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\mr200\OneDrive\Рабочий стол\Bury the light\Bury the light\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\mr200\OneDrive\Рабочий стол\Bury the light\Bury the light\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\mr200\OneDrive\Рабочий стол\Bury the light\Bury the light\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mr200\OneDrive\Рабочий стол\Bury the light\Bury the light\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\mr200\OneDrive\Рабочий стол\Bury the light\Bury the light\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mr200\OneDrive\Рабочий стол\Bury the light\Bury the light\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\mr200\OneDrive\Рабочий стол\Bury the light\Bury the light\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\mr200\OneDrive\Рабочий стол\Bury the light\Bury the light\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mr200\OneDrive\Рабочий стол\Bury the light\Bury the light\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mr200\OneDrive\Рабочий стол\Bury the light\Bury the light\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mr200\OneDrive\Рабочий стол\Bury the light\Bury the light\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mr200\OneDrive\Рабочий стол\Bury the light\Bury the light\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mr200\OneDrive\Рабочий стол\Bury the light\Bury the light\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mr200\OneDrive\Рабочий стол\Bury the light\Bury the light\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mr200\OneDrive\Рабочий стол\Bury the light\Bury the light\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\mr200\OneDrive\Рабочий стол\Bury the light\Bury the light\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\mr200\OneDrive\Рабочий стол\Bury the light\Bury the light\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\mr200\OneDrive\Рабочий стол\Bury the light\Bury the light\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mr200\OneDrive\Рабочий стол\Bury the light\Bury the light\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mr200\OneDrive\Рабочий стол\Bury the light\Bury the light\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\mr200\OneDrive\Рабочий стол\Bury the light\Bury the light\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\mr200\OneDrive\Рабочий стол\Bury the light\Bury the light\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\mr200\OneDrive\Рабочий стол\Bury the light\Bury the light\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mr200\OneDrive\Рабочий стол\Bury the light\Bury the light\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\mr200\OneDrive\Рабочий стол\Bury the light\Bury the light\obj\Debug\net6.0\Bury the light.csproj.AssemblyReference.cache
+C:\Users\mr200\OneDrive\Рабочий стол\Bury the light\Bury the light\obj\Debug\net6.0\Bury the light.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mr200\OneDrive\Рабочий стол\Bury the light\Bury the light\obj\Debug\net6.0\Bury the light.AssemblyInfoInputs.cache
+C:\Users\mr200\OneDrive\Рабочий стол\Bury the light\Bury the light\obj\Debug\net6.0\Bury the light.AssemblyInfo.cs
+C:\Users\mr200\OneDrive\Рабочий стол\Bury the light\Bury the light\obj\Debug\net6.0\Bury the light.csproj.CoreCompileInputs.cache
+C:\Users\mr200\OneDrive\Рабочий стол\Bury the light\Bury the light\obj\Debug\net6.0\Bury the light.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mr200\OneDrive\Рабочий стол\Bury the light\Bury the light\obj\Debug\net6.0\Bury the light.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mr200\OneDrive\Рабочий стол\Bury the light\Bury the light\obj\Debug\net6.0\staticwebassets\msbuild.Bury the light.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mr200\OneDrive\Рабочий стол\Bury the light\Bury the light\obj\Debug\net6.0\staticwebassets\msbuild.build.Bury the light.props
+C:\Users\mr200\OneDrive\Рабочий стол\Bury the light\Bury the light\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Bury the light.props
+C:\Users\mr200\OneDrive\Рабочий стол\Bury the light\Bury the light\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Bury the light.props
+C:\Users\mr200\OneDrive\Рабочий стол\Bury the light\Bury the light\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\mr200\OneDrive\Рабочий стол\Bury the light\Bury the light\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\mr200\OneDrive\Рабочий стол\Bury the light\Bury the light\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\mr200\OneDrive\Рабочий стол\Bury the light\Bury the light\obj\Debug\net6.0\scopedcss\bundle\Bury the light.styles.css
+C:\Users\mr200\OneDrive\Рабочий стол\Bury the light\Bury the light\obj\Debug\net6.0\Bury the light.csproj.CopyComplete
+C:\Users\mr200\OneDrive\Рабочий стол\Bury the light\Bury the light\obj\Debug\net6.0\Bury the light.dll
+C:\Users\mr200\OneDrive\Рабочий стол\Bury the light\Bury the light\obj\Debug\net6.0\refint\Bury the light.dll
+C:\Users\mr200\OneDrive\Рабочий стол\Bury the light\Bury the light\obj\Debug\net6.0\Bury the light.pdb
+C:\Users\mr200\OneDrive\Рабочий стол\Bury the light\Bury the light\obj\Debug\net6.0\Bury the light.genruntimeconfig.cache
+C:\Users\mr200\OneDrive\Рабочий стол\Bury the light\Bury the light\obj\Debug\net6.0\ref\Bury the light.dll
+D:\Documents\Станкин\Учёба\2 Курс\Программирование на языке высокого уровня\Лабораторные работы\Bury the light\Bury the light\bin\Debug\net6.0\appsettings.Development.json
+D:\Documents\Станкин\Учёба\2 Курс\Программирование на языке высокого уровня\Лабораторные работы\Bury the light\Bury the light\bin\Debug\net6.0\appsettings.json
+D:\Documents\Станкин\Учёба\2 Курс\Программирование на языке высокого уровня\Лабораторные работы\Bury the light\Bury the light\bin\Debug\net6.0\Bury the light.exe
+D:\Documents\Станкин\Учёба\2 Курс\Программирование на языке высокого уровня\Лабораторные работы\Bury the light\Bury the light\bin\Debug\net6.0\Bury the light.deps.json
+D:\Documents\Станкин\Учёба\2 Курс\Программирование на языке высокого уровня\Лабораторные работы\Bury the light\Bury the light\bin\Debug\net6.0\Bury the light.runtimeconfig.json
+D:\Documents\Станкин\Учёба\2 Курс\Программирование на языке высокого уровня\Лабораторные работы\Bury the light\Bury the light\bin\Debug\net6.0\Bury the light.dll
+D:\Documents\Станкин\Учёба\2 Курс\Программирование на языке высокого уровня\Лабораторные работы\Bury the light\Bury the light\bin\Debug\net6.0\Bury the light.pdb
+D:\Documents\Станкин\Учёба\2 Курс\Программирование на языке высокого уровня\Лабораторные работы\Bury the light\Bury the light\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+D:\Documents\Станкин\Учёба\2 Курс\Программирование на языке высокого уровня\Лабораторные работы\Bury the light\Bury the light\bin\Debug\net6.0\EntityFramework.dll
+D:\Documents\Станкин\Учёба\2 Курс\Программирование на языке высокого уровня\Лабораторные работы\Bury the light\Bury the light\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Documents\Станкин\Учёба\2 Курс\Программирование на языке высокого уровня\Лабораторные работы\Bury the light\Bury the light\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Documents\Станкин\Учёба\2 Курс\Программирование на языке высокого уровня\Лабораторные работы\Bury the light\Bury the light\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Documents\Станкин\Учёба\2 Курс\Программирование на языке высокого уровня\Лабораторные работы\Bury the light\Bury the light\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Documents\Станкин\Учёба\2 Курс\Программирование на языке высокого уровня\Лабораторные работы\Bury the light\Bury the light\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Documents\Станкин\Учёба\2 Курс\Программирование на языке высокого уровня\Лабораторные работы\Bury the light\Bury the light\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Documents\Станкин\Учёба\2 Курс\Программирование на языке высокого уровня\Лабораторные работы\Bury the light\Bury the light\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Documents\Станкин\Учёба\2 Курс\Программирование на языке высокого уровня\Лабораторные работы\Bury the light\Bury the light\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Documents\Станкин\Учёба\2 Курс\Программирование на языке высокого уровня\Лабораторные работы\Bury the light\Bury the light\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Documents\Станкин\Учёба\2 Курс\Программирование на языке высокого уровня\Лабораторные работы\Bury the light\Bury the light\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Documents\Станкин\Учёба\2 Курс\Программирование на языке высокого уровня\Лабораторные работы\Bury the light\Bury the light\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Documents\Станкин\Учёба\2 Курс\Программирование на языке высокого уровня\Лабораторные работы\Bury the light\Bury the light\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Documents\Станкин\Учёба\2 Курс\Программирование на языке высокого уровня\Лабораторные работы\Bury the light\Bury the light\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Documents\Станкин\Учёба\2 Курс\Программирование на языке высокого уровня\Лабораторные работы\Bury the light\Bury the light\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Documents\Станкин\Учёба\2 Курс\Программирование на языке высокого уровня\Лабораторные работы\Bury the light\Bury the light\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Documents\Станкин\Учёба\2 Курс\Программирование на языке высокого уровня\Лабораторные работы\Bury the light\Bury the light\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Documents\Станкин\Учёба\2 Курс\Программирование на языке высокого уровня\Лабораторные работы\Bury the light\Bury the light\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Documents\Станкин\Учёба\2 Курс\Программирование на языке высокого уровня\Лабораторные работы\Bury the light\Bury the light\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Documents\Станкин\Учёба\2 Курс\Программирование на языке высокого уровня\Лабораторные работы\Bury the light\Bury the light\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Documents\Станкин\Учёба\2 Курс\Программирование на языке высокого уровня\Лабораторные работы\Bury the light\Bury the light\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Documents\Станкин\Учёба\2 Курс\Программирование на языке высокого уровня\Лабораторные работы\Bury the light\Bury the light\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Documents\Станкин\Учёба\2 Курс\Программирование на языке высокого уровня\Лабораторные работы\Bury the light\Bury the light\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Documents\Станкин\Учёба\2 Курс\Программирование на языке высокого уровня\Лабораторные работы\Bury the light\Bury the light\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Documents\Станкин\Учёба\2 Курс\Программирование на языке высокого уровня\Лабораторные работы\Bury the light\Bury the light\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Documents\Станкин\Учёба\2 Курс\Программирование на языке высокого уровня\Лабораторные работы\Bury the light\Bury the light\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Documents\Станкин\Учёба\2 Курс\Программирование на языке высокого уровня\Лабораторные работы\Bury the light\Bury the light\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Documents\Станкин\Учёба\2 Курс\Программирование на языке высокого уровня\Лабораторные работы\Bury the light\Bury the light\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documents\Станкин\Учёба\2 Курс\Программирование на языке высокого уровня\Лабораторные работы\Bury the light\Bury the light\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documents\Станкин\Учёба\2 Курс\Программирование на языке высокого уровня\Лабораторные работы\Bury the light\Bury the light\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documents\Станкин\Учёба\2 Курс\Программирование на языке высокого уровня\Лабораторные работы\Bury the light\Bury the light\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documents\Станкин\Учёба\2 Курс\Программирование на языке высокого уровня\Лабораторные работы\Bury the light\Bury the light\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Documents\Станкин\Учёба\2 Курс\Программирование на языке высокого уровня\Лабораторные работы\Bury the light\Bury the light\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Documents\Станкин\Учёба\2 Курс\Программирование на языке высокого уровня\Лабораторные работы\Bury the light\Bury the light\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Documents\Станкин\Учёба\2 Курс\Программирование на языке высокого уровня\Лабораторные работы\Bury the light\Bury the light\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Documents\Станкин\Учёба\2 Курс\Программирование на языке высокого уровня\Лабораторные работы\Bury the light\Bury the light\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Documents\Станкин\Учёба\2 Курс\Программирование на языке высокого уровня\Лабораторные работы\Bury the light\Bury the light\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Documents\Станкин\Учёба\2 Курс\Программирование на языке высокого уровня\Лабораторные работы\Bury the light\Bury the light\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Documents\Станкин\Учёба\2 Курс\Программирование на языке высокого уровня\Лабораторные работы\Bury the light\Bury the light\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Documents\Станкин\Учёба\2 Курс\Программирование на языке высокого уровня\Лабораторные работы\Bury the light\Bury the light\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Documents\Станкин\Учёба\2 Курс\Программирование на языке высокого уровня\Лабораторные работы\Bury the light\Bury the light\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Documents\Станкин\Учёба\2 Курс\Программирование на языке высокого уровня\Лабораторные работы\Bury the light\Bury the light\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Documents\Станкин\Учёба\2 Курс\Программирование на языке высокого уровня\Лабораторные работы\Bury the light\Bury the light\obj\Debug\net6.0\Bury the light.csproj.AssemblyReference.cache
+D:\Documents\Станкин\Учёба\2 Курс\Программирование на языке высокого уровня\Лабораторные работы\Bury the light\Bury the light\obj\Debug\net6.0\Bury the light.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Станкин\Учёба\2 Курс\Программирование на языке высокого уровня\Лабораторные работы\Bury the light\Bury the light\obj\Debug\net6.0\Bury the light.AssemblyInfoInputs.cache
+D:\Documents\Станкин\Учёба\2 Курс\Программирование на языке высокого уровня\Лабораторные работы\Bury the light\Bury the light\obj\Debug\net6.0\Bury the light.AssemblyInfo.cs
+D:\Documents\Станкин\Учёба\2 Курс\Программирование на языке высокого уровня\Лабораторные работы\Bury the light\Bury the light\obj\Debug\net6.0\Bury the light.csproj.CoreCompileInputs.cache
+D:\Documents\Станкин\Учёба\2 Курс\Программирование на языке высокого уровня\Лабораторные работы\Bury the light\Bury the light\obj\Debug\net6.0\Bury the light.MvcApplicationPartsAssemblyInfo.cs
+D:\Documents\Станкин\Учёба\2 Курс\Программирование на языке высокого уровня\Лабораторные работы\Bury the light\Bury the light\obj\Debug\net6.0\Bury the light.MvcApplicationPartsAssemblyInfo.cache
+D:\Documents\Станкин\Учёба\2 Курс\Программирование на языке высокого уровня\Лабораторные работы\Bury the light\Bury the light\obj\Debug\net6.0\staticwebassets\msbuild.Bury the light.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Documents\Станкин\Учёба\2 Курс\Программирование на языке высокого уровня\Лабораторные работы\Bury the light\Bury the light\obj\Debug\net6.0\staticwebassets\msbuild.build.Bury the light.props
+D:\Documents\Станкин\Учёба\2 Курс\Программирование на языке высокого уровня\Лабораторные работы\Bury the light\Bury the light\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Bury the light.props
+D:\Documents\Станкин\Учёба\2 Курс\Программирование на языке высокого уровня\Лабораторные работы\Bury the light\Bury the light\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Bury the light.props
+D:\Documents\Станкин\Учёба\2 Курс\Программирование на языке высокого уровня\Лабораторные работы\Bury the light\Bury the light\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Documents\Станкин\Учёба\2 Курс\Программирование на языке высокого уровня\Лабораторные работы\Bury the light\Bury the light\obj\Debug\net6.0\staticwebassets.build.json
+D:\Documents\Станкин\Учёба\2 Курс\Программирование на языке высокого уровня\Лабораторные работы\Bury the light\Bury the light\obj\Debug\net6.0\staticwebassets.development.json
+D:\Documents\Станкин\Учёба\2 Курс\Программирование на языке высокого уровня\Лабораторные работы\Bury the light\Bury the light\obj\Debug\net6.0\scopedcss\bundle\Bury the light.styles.css
+D:\Documents\Станкин\Учёба\2 Курс\Программирование на языке высокого уровня\Лабораторные работы\Bury the light\Bury the light\obj\Debug\net6.0\Bury the light.csproj.CopyComplete
+D:\Documents\Станкин\Учёба\2 Курс\Программирование на языке высокого уровня\Лабораторные работы\Bury the light\Bury the light\obj\Debug\net6.0\Bury the light.dll
+D:\Documents\Станкин\Учёба\2 Курс\Программирование на языке высокого уровня\Лабораторные работы\Bury the light\Bury the light\obj\Debug\net6.0\refint\Bury the light.dll
+D:\Documents\Станкин\Учёба\2 Курс\Программирование на языке высокого уровня\Лабораторные работы\Bury the light\Bury the light\obj\Debug\net6.0\Bury the light.pdb
+D:\Documents\Станкин\Учёба\2 Курс\Программирование на языке высокого уровня\Лабораторные работы\Bury the light\Bury the light\obj\Debug\net6.0\Bury the light.genruntimeconfig.cache
+D:\Documents\Станкин\Учёба\2 Курс\Программирование на языке высокого уровня\Лабораторные работы\Bury the light\Bury the light\obj\Debug\net6.0\ref\Bury the light.dll
